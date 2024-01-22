@@ -3,4 +3,5 @@
 <ul>
   <li>Desenvolvimento Back-End com Laravel</li>
   <li>Desenvolvimento Front-End com HTML e CSS</li>
+  <li>Estudando Machine Learning</li>
 </ul>
