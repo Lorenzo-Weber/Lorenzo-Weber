@@ -1,7 +1,8 @@
 <h1 align="center" class="mudacor"> Lorenzo Weber </h1>
-<p align="center">WebDev FullStack</p>
+<p align="center">IoT | Machine Learning</p>
+<p>Hello! I'm a computer science student at UFSM, i'm passionate about Iot and Machine Learning</p>
+<p>How to reach me:</p>
 <ul>
-  <li>Desenvolvimento Back-End com Laravel</li>
-  <li>Desenvolvimento Front-End com HTML e CSS</li>
-  <li>Estudando Machine Learning</li>
+  <a href="https://www.linkedin.com/in/lorenzo-weber-520a27218/"><li>Linkedin</li></a>
+  <li>lorenzocarnielweber@gmail.com</li>
 </ul>
